@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
   "name": "io.github.albemarlestudio/clayre",
-  "description": "Brand strategy and content-calendar context for agents: read the brand profile, reviews, insights and calendar; capture ideas; human-confirmed approval gates. Remote MCP + REST/OpenAPI.",
+  "description": "Brand strategy and content-calendar context for agents, with human-confirmed approval gates.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/albemarlestudio/clayre-skills",
