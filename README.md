@@ -10,6 +10,8 @@ strategy and brand layer around an operator's content operation.
   bearer key minted in the cockpit at Settings → Connections → Assistants).
 - **REST** — OpenAPI at `https://www.clayre.app/api/v1/openapi.json`, same key.
 
+Full setup, scopes, priced tasks and troubleshooting: [CONNECTOR-SETUP.md](CONNECTOR-SETUP.md).
+
 Not a posting tool — Clayre decides what's worth posting; scheduling and
 publishing stay with the human's own channel.
 
